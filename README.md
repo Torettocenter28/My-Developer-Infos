@@ -1,7 +1,7 @@
 # T7-Speedbank-Ai High-End Datenbank (Demnächst verfügbar)
 
 Willkommen bei der T7-Speedbank – entwickelt und präsentiert von T7 Electronics Studio. Als Einzelentwickler setze ich auf professionelle Datenbanklösungen, die neue Maßstäbe für anspruchsvolle Studio- und Produktionsumgebungen setzen. Basierend auf LMDB und gesteuert durch eine fortschrittliche künstliche Intelligenz, garantiert die T7-Speedbank maximale Performance, Sicherheit und Flexibilität. Die Veröffentlichung steht kurz bevor.
-## T7-SpeedBank-Cloud (Demnächst)
+## T7-SpeedBank-Cloud (ComingSoon)
 
 Als T7 Electronics Studio setze ich auf Innovation und Effizienz: Die T7-Speedbank ist sowohl lokal auf Ihrem Rechner nutzbar als auch mit einer eigenen, exklusiven T7-SpeedBank-Cloud verbunden. Diese Cloud-Funktion habe ich entwickelt, um Ressourcen zu sparen und die Performance für professionelle Anwendungen weiter zu steigern.
 
